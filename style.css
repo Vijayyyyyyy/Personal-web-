@@ -1,0 +1,27 @@
+body {
+background-color: black;
+}
+
+h1{
+  color: white;
+ 
+ font-weight: 200px;
+  text-align: center;
+}
+h2{
+  font-weight: normal;
+  color: white;
+  font-size: large;
+  
+}
+p{
+  color: white;
+}
+a{
+  color: white;
+  
+}
+img{ 
+  height: 100px;
+  width: 50px;
+}
